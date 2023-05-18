@@ -1,5 +1,5 @@
 import "./listitem.scss";
-import V from "../../assets/img/V.png";
+import V from "../../assets/img/v.png";
 import VforV from "../../assets/img/VforV.mp4";
 import PlayArrowIcon from '@mui/icons-material/PlayArrow';
 import ThumbUpAltIcon from '@mui/icons-material/ThumbUpAlt';
